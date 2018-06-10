@@ -1,0 +1,30 @@
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Auth.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Director_2.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Director_1.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Director_3.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Manager_1.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Engineer_1.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\c#####\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Engineer_2.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Auth.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Director_2.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Engineer_1.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Director_1.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Director_3.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Engineer_2.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Manager_1.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\Сорока Д.В. А-07-15 БД ТР\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

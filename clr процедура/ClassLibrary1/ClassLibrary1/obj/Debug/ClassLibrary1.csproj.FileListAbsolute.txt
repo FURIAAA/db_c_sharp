@@ -1,0 +1,5 @@
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\clr процедура\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\clr процедура\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\clr процедура\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\clr процедура\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\FURIA\Учеба\Базы данных\ТИПОВОЙ РАСЧЕТ\clr процедура\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
